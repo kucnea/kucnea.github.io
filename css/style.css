@@ -5538,7 +5538,9 @@ button.bg-dark:focus {
 .d-flex {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
-  display: flex !important; }
+  display: flex !important; 
+  flex-wrap: wrap;
+  margin-top: 1%;}
 
 .d-inline-flex {
   display: -webkit-inline-box !important;
@@ -6731,7 +6733,8 @@ button.bg-dark:focus {
 
 .pl-3,
 .px-3 {
-  padding-left: 1rem !important; }
+  padding-left: 1rem !important;
+  margin-top: 5%;}
 
 .p-4 {
   padding: 1.5rem !important; }

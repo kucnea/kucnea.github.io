@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enterprise.mauth",
+      "sha256_cert_fingerprints": [
+        "7E:5B:59:9A:10:BA:01:4F:B9:07:97:A5:62:9F:79:B9:2C:1F:35:BB:95:69:4B:B6:4A:91:16:9B:DF:E3:8D:05"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enterprise.mmessage",
+      "sha256_cert_fingerprints": [
+        "7E:5B:59:9A:10:BA:01:4F:B9:07:97:A5:62:9F:79:B9:2C:1F:35:BB:95:69:4B:B6:4A:91:16:9B:DF:E3:8D:05"
+      ]
+    }
+  }
+]
